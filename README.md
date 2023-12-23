@@ -1,0 +1,1 @@
+# smsRu-notification-service
